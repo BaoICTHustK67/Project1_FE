@@ -16,6 +16,9 @@ const config: Config = {
       colors: {
         lama: "#F35C7A",
       },
+      scrollbar: {
+        none: "scrollbar-width: none; -ms-overflow-style: none;",
+      },
     },
   },
   plugins: [],
